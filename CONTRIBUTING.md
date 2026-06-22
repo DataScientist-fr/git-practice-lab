@@ -7,3 +7,4 @@ Chaque personne peut ajouter son prénom et, si elle le souhaite, un petit messa
 ## Liste des participants
 
 - ⭐ **Romain** : Je suis le créateur de ce dépôt.
+- 🚀​ **Mbark** : Je suis Data Engineer Student Promo 2026.
