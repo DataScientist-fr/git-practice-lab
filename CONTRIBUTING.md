@@ -8,3 +8,4 @@ Chaque personne peut ajouter son prénom et, si elle le souhaite, un petit messa
 
 - ⭐ **Romain** : Je suis le créateur de ce dépôt.
 - 🚀​ **Mbark** : Je suis Data Engineer Student Promo 2026.
+- 🧑‍🎨 **Mehdi** : Je suis un étudiant en Data Engineering.
